@@ -231,6 +231,19 @@ I used ChatGPT to help with understanding the assignment, preparing Java impleme
 
 I used IntelliJ IDEA to compile and run the project and checked the generated output using my student ID.
 
+
+## Additional Test Results
+
+I tested my implementation using the provided Check.java.
+
+Results:
+- DisjointSetTest: All checks passed.
+- Tiny example: All 13 lines are correct.
+- Small example: All 13 lines are correct.
+- DAG example: All 13 lines are correct.
+
+All provided examples passed successfully.
+
 ## 14. Conclusion
 
 In this assignment, I practiced graph algorithms and learned how they can be used together to generate a maze, find the cheapest connections, explore paths, identify strongly connected components, and calculate routes.
