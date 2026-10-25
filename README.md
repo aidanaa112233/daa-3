@@ -1,4 +1,3 @@
-
 # Assignment 3 — Maze Escape
 
 **Course:** Design and Analysis of Algorithms  
